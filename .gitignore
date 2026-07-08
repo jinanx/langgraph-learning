@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+
+# pytest
+.pytest_cache/
+
+# LangSmith
+.langsmith/
+
+# Build
+site/
+
+# Mac
+.DS_Store

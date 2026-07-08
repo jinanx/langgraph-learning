@@ -1,0 +1,16 @@
+site_name: LangGraph Learning
+site_description: 面向 AI Agent 求职的 LangGraph Mini Demo 学习项目
+
+docs_dir: docs
+
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: indigo
+        accent: cyan
+
+markdown_extensions:
+    - admonition
+    - toc:
+        permalink: true
